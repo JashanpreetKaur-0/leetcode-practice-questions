@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1572-matrix-diagonal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
