@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
