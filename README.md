@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0290-word-pattern) |
+| [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
