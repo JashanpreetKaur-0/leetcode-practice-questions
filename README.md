@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0202-happy-number) |
 ## Divide and Conquer
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0278-first-bad-version) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
