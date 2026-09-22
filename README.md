@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 ## Sliding Window
