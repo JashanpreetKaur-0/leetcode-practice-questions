@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 ## Floyd's Cycle Finding Algorithm
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
