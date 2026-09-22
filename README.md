@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
