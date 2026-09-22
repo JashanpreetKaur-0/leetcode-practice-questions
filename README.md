@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1572-matrix-diagonal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
