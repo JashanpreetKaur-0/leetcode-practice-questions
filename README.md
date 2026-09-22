@@ -4,10 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0290-word-pattern) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
