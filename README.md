@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1572-matrix-diagonal-sum) |
+| [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
+| [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
