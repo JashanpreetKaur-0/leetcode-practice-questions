@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
@@ -154,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -277,4 +282,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
