@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
 | [1678-goal-parser-interpretation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
+| [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
 | ------- |
