@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
+| [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
