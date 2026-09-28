@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -327,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0055-jump-game) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
