@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
+| [1544-make-the-string-great](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1544-make-the-string-great) |
 | [1678-goal-parser-interpretation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0042-trapping-rain-water) |
+| [1544-make-the-string-great](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
