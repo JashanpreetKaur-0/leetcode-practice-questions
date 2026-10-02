@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
