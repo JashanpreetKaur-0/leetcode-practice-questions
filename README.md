@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
