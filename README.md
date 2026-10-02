@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 ## Design
 |  |
