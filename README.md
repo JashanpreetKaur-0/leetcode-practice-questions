@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
