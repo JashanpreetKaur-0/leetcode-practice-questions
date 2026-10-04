@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2390-removing-stars-from-a-string) |
 | [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2390-removing-stars-from-a-string) |
 | [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
