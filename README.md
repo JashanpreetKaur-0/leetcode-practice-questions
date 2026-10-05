@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0852-peak-index-in-a-mountain-array) |
