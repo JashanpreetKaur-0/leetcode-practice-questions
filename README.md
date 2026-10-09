@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0724-find-pivot-index) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
