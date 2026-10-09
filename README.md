@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0633-sum-of-square-numbers) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
