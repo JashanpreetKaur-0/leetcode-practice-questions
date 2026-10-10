@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -441,11 +444,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 ## Bracket Sequences
 |  |
 | ------- |
