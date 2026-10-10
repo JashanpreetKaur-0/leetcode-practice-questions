@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
