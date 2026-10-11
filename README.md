@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0088-merge-sorted-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
