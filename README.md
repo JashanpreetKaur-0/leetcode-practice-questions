@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
