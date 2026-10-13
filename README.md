@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3861-minimum-capacity-box](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3861-minimum-capacity-box) |
 ## Sorting
 |  |
 | ------- |
