@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
