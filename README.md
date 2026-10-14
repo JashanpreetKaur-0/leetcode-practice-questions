@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
+| [0647-palindromic-substrings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0877-stone-game) |
 ## Stack
