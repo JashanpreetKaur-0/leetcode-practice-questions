@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
 | ------- |
