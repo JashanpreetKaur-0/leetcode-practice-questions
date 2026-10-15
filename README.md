@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
