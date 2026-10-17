@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3861-minimum-capacity-box) |
 ## Sorting
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
