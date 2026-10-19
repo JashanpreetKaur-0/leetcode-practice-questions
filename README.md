@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1678-goal-parser-interpretation) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
