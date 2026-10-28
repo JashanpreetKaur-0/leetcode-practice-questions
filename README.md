@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0326-power-of-three) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
