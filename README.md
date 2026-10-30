@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
