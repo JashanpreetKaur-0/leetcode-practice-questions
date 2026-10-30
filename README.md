@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1991-find-the-middle-index-in-array) |
