@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2784-check-if-array-is-good](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2784-check-if-array-is-good) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1451-rearrange-words-in-a-sentence) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2390-removing-stars-from-a-string) |
 | [3813-vowel-consonant-score](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1046-last-stone-weight) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
