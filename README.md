@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0575-distribute-candies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -523,12 +527,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
