@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0804-unique-morse-code-words) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
+| [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0804-unique-morse-code-words) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
+| [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0877-stone-game) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
+| [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0680-valid-palindrome-ii) |
+| [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
