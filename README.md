@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0575-distribute-candies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
