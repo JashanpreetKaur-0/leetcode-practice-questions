@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0981-time-based-key-value-store](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0981-time-based-key-value-store](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1544-make-the-string-great) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0981-time-based-key-value-store](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1488-avoid-flood-in-the-city) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0729-my-calendar-i) |
+| [0981-time-based-key-value-store](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0981-time-based-key-value-store) |
 | [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
