@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1488-avoid-flood-in-the-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2034-stock-price-fluctuation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2034-stock-price-fluctuation) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2784-check-if-array-is-good](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2784-check-if-array-is-good) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1046-last-stone-weight) |
 | [1488-avoid-flood-in-the-city](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1488-avoid-flood-in-the-city) |
+| [2034-stock-price-fluctuation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2034-stock-price-fluctuation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0981-time-based-key-value-store) |
 | [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
+| [2034-stock-price-fluctuation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2034-stock-price-fluctuation) |
 ## Hash Function
 |  |
 | ------- |
@@ -634,4 +637,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0729-my-calendar-i) |
+| [2034-stock-price-fluctuation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2034-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
