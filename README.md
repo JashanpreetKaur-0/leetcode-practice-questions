@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
