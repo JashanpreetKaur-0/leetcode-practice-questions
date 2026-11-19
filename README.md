@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0804-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0824-goat-latin) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
