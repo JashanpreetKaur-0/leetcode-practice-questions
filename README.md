@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0724-find-pivot-index) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0729-my-calendar-i) |
