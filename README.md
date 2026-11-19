@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0682-baseball-game) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0905-sort-array-by-parity) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2351-first-letter-to-appear-twice) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1248-count-number-of-nice-subarrays) |
