@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0804-unique-morse-code-words) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0680-valid-palindrome-ii) |
+| [0748-shortest-completing-word](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0804-unique-morse-code-words) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0804-unique-morse-code-words) |
 | [0833-find-and-replace-in-string](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
