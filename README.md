@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0525-contiguous-array) |
