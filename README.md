@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
