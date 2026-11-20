@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1488-avoid-flood-in-the-city) |
 | [1572-matrix-diagonal-sum](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-get-maximum-in-generated-array](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1773-count-items-matching-a-rule) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2784-check-if-array-is-good) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1488-avoid-flood-in-the-city) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JashanpreetKaur-0/leetcode-practice-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
